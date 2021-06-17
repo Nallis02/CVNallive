@@ -18,8 +18,8 @@ body{
 }
 .header--link-profiles{
     position: absolute;
-    top: 25%;
-    left: 1024px;
+    top: 6%;
+    left: 80%;
     color: #FFFFFF;
     font-weight: bold;
     font-size: 30px;
@@ -27,8 +27,6 @@ body{
 }
 img {
     box-shadow: 0px 0px 4px 5px rgba(0, 0, 255, 0.3);
-    display: block;
-    margin: 30px auto;
     width: 200px;
     height: 200px;
     
