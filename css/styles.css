@@ -102,7 +102,12 @@ a{
     text-decoration: none;
 }
 /* estilos de perfil.html */
-.container{
+.main-container{
+    max-width: 980px;
+    margin: auto;
+}
+.main-container .container{
+    margin-top: 5em;
     padding: 70px 40px;
     background-color: #0055772c;
     margin-bottom: 50px;
